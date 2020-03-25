@@ -1,0 +1,20 @@
+
+  .btn{
+    padding:1em;
+  }
+  >> Peut être remplacé par "p-1"
+  
+  .container {
+    margin:auto;
+  }
+  >> non nécessaire
+  
+  .container-info {
+    text-align: center;
+  }
+  >> Peut être remplacé par "text-center"
+  
+  L64 :  $spacer:2 ??
+  
+  <a class="col-6
+  >> On mettra plutôt "col" sur des "<div>"
